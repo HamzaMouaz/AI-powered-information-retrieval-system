@@ -1,6 +1,0 @@
-decision_tree:
-  max_depth: [10,20]
-
-random_forest:
-  max_depth: [10]
-  n_trees: [10]
